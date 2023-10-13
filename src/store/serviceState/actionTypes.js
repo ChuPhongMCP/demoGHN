@@ -1,0 +1,2 @@
+export const SET_SERVICE = 'SET_SERVICE';
+export const RESET_SERVICE = 'RESET_SERVICE';

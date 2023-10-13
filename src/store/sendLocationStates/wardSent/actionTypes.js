@@ -1,0 +1,2 @@
+export const SET_WARD_SENT = 'SET_WARD_SENT';
+export const RESET_WARD_SENT = 'RESET_WARD_SENT';
